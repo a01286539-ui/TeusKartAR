@@ -1,4 +1,4 @@
-# A3RO AR: baby-step guide
+# TeusKart: baby-step guide
 
 ## 1. Make the tracking file (targets.mind)
 1. Open the MindAR image compiler (search "MindAR image targets compiler", from the mind-ar-js docs).
