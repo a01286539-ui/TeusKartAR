@@ -8,8 +8,8 @@ const CONFIG = {
   // LOADING SCREEN PICTURES (optional). Put the files in the media folder.
   // logo: a PNG with a transparent background works best (keep it under ~200 KB).
   // background: a full-screen photo (JPG, under ~300 KB). Leave "" to use none.
-  logo: "media/logo.png",
-  background: "",
+  logo: "media/Teamcec.png",
+  background: "media/Postercec.png",
 
   // ORDER MATTERS!  Item #1 = the FIRST image you uploaded to the MindAR compiler,
   // item #2 = the SECOND image, and so on.
@@ -20,7 +20,7 @@ const CONFIG = {
   targets: [
 
     // ================= TARGET 1 (active placeholder: replace me) =================
-    { title: "TeusKart", type: "image", src: "media/target1.jpg", caption: "Replace this with your content" },
+    { title: "Experiment video", type: "video", src: "media/cec.mp4", caption: "The car in action" },
 
 
     // =====================================================
